@@ -1,2 +1,2 @@
 # Simon-Game
-https://github.com/Ad1-18/Simon-Game.git
+https://mal1keth.github.io/Simon-Game/
